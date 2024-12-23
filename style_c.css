@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+/* 인덱스 페이지 스타일 */
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 1;
+}
+.top{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 10;
+    background: radial-gradient(
+        rgba(146, 119, 255, 0.3),
+        rgba(66, 23, 224, 0.8));
+}
+.wrap{
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 20;
+}
+.logo{height: 230px;text-align: center;padding-top: 132px;}
+
+.subcopy{
+    height: 119px;
+    padding-top: 90px;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    line-height: 31px;
+    letter-spacing: -0.5px;
+    font-weight: 500;
+    font-family: "Noto Sans KR", sans-serif;
+}
+.bt00{height: 43px;padding-top: 151px;text-align: center;}
+
+/* 서브페이지 스타일 */
+
+.b01{height: 689px;}
+.b02{height: 1101px;}
+.b03{height: 670px;}
+.b04{height: 598px;}
+.b05{height: 671px;}
+.b06{height: 635px;}
+.b07{height: 639px;}
+
+.c01{height: 736px;}
+.c02{height: 904px;}
+.c03{height: 310px;}
+
+.font01{font-size: 48px;text-align: center; position: relative;color: #0d064d; top: 25px; left: 25px;}
+.font02{font-size: 25px; text-align: center; position: relative; color: black; top: 345px; left: 25px;}
+.font03{font-size: 48px; position: relative; color: white; top: 799px; left: 30px;}
+.font04{font-size: 28px; position: relative; color: white; top: 895px; left: 30px; text-align: center;}
+
+/* 배찌 */
+.font05{font-size: 50px; position: relative; color: white; top: 304px; left: 48px;}
+.font06{font-size: 22px; position: relative; color: white; top: 380px; left: 48px;}
+
+/* 다오 */
+.font07{font-size: 50px; position: relative; color: white; top: 254px; left: 284px;}
+.font08{font-size: 22px; position: relative; color: white; top: 325px; left: 179px; text-align: right;}
+
+/* 디지니 */
+.font09{font-size: 50px; position: relative; color: white; top: 334px; left: 48px;}
+.font10{font-size: 22px; position: relative; color: white; top: 403px; left: 48px;}
+
+/* 마리드 */
+.font11{font-size: 50px; position: relative; color: white; top: 304px; left: 245px;}
+.font12{font-size: 22px; position: relative; color: white; top: 375px; left: 152px; text-align: right;}
+
+/* 모스 */
+.font13{font-size: 50px; position: relative; color: white; top: 294px; left: 48px;}
+.font14{font-size: 22px; position: relative; color: white; top: 365px; left: 48px;}
+
+
+.font15{font-size: 46px; position: relative; color: white; top: 25px; left: 131px;}
+.font16{font-size: 46px; position: relative; color: white; top: 52px; left: 33px; text-align: left;}
+.font17{font-size: 14px; position: relative; color: white; top: 149px; left: 15px; text-align: left;}
+
+
+.tb0201{margin: 0 auto; position: absolute;}
+.tb0202{margin: 0 auto; position: absolute;}
+.tb0203{margin: 0 auto; position: absolute;}
+.tb0204{margin: 0 auto; position: absolute;}
+
+.tb0301{margin: 0 auto; position: absolute;}
+.tb0302{margin: 0 auto; position: absolute;}
+
+.tb0401{margin: 0 auto; position: absolute;}
+.tb0402{margin: 0 auto; position: absolute;}
+
+.tb0501{margin: 0 auto; position: absolute;}
+.tb0502{margin: 0 auto; position: absolute;}
+
+.tb0601{margin: 0 auto; position: absolute;}
+.tb0602{margin: 0 auto; position: absolute;}
+
+.tb0701{margin: 0 auto; position: absolute;}
+.tb0702{margin: 0 auto; position: absolute;}
+
+.ctb01{margin: 0 auto; position: absolute;}
+.ctb02{margin: 0 auto; position: absolute;}
+.ctb03{margin: 0 auto; position: absolute;}
+
+
+
+
+
+
+
+
